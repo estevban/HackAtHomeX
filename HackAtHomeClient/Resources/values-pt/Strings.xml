@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">Hack@Home</string>
+  <string name="Email">Correio:</string>
+  <string name="Password">Senha:</string>
+  <string name="Validate">Validar</string>
+  <string name="LabText">Evidências</string>
+  <string name="TextDescription">Descrição</string>
+  <string name="ErrorTitle">Erro de autenticação</string>
+  <string name="ErrorDescription">Erro durante o login, verifique seus dados e tente novamente</string>
+  <string name="Accept">Está bem</string>
+  <string name="LandScapeText">Panorama</string>
+  <string name="Portrait">Retrato</string>
+
+</resources>
